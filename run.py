@@ -1,12 +1,12 @@
 # -*- coding: utf-8
-#####################################################
-# * Author    : Angga Kurniawan                     #
-# * Facebook  : https://facebook.com/gaaaarzxd      #
-# * GitHub    : https://github.com/anggaxd          #
-# * Instagram : https://www.instagram.com/gaaarzxd  #
-# * Website   : https://anggaxd.herokuapp.com       #
-# * File Name : run.py < simpel brute force >       #
-#####################################################
+#############################################################################
+# * Author    : Adnanboot                                                   #
+# * Facebook  : https://www.facebook.com/gila.hengkel.mau.hek.akun.gua      #
+# * GitHub    : https://github.com/AdnanBoot/hek-efbe                       #
+# * Whatsapp  : 085659872989                                                #
+# * Donasi via Dana   : 085659872989                                        #
+# * File Name : run.py < simpel brute force >                               #
+#############################################################################
 
 try:
 	import requests
